@@ -1,0 +1,11 @@
+C:\Projects\C#\FinalEstructura\FinalEstructura\obj\Debug\netcoreapp2.0\FinalEstructura.csprojAssemblyReference.cache
+C:\Projects\C#\FinalEstructura\FinalEstructura\obj\Debug\netcoreapp2.0\FinalEstructura.csproj.CoreCompileInputs.cache
+C:\Projects\C#\FinalEstructura\FinalEstructura\obj\Debug\netcoreapp2.0\FinalEstructura.AssemblyInfoInputs.cache
+C:\Projects\C#\FinalEstructura\FinalEstructura\obj\Debug\netcoreapp2.0\FinalEstructura.AssemblyInfo.cs
+C:\Projects\C#\FinalEstructura\FinalEstructura\bin\Debug\netcoreapp2.0\FinalEstructura.deps.json
+C:\Projects\C#\FinalEstructura\FinalEstructura\bin\Debug\netcoreapp2.0\FinalEstructura.runtimeconfig.json
+C:\Projects\C#\FinalEstructura\FinalEstructura\bin\Debug\netcoreapp2.0\FinalEstructura.runtimeconfig.dev.json
+C:\Projects\C#\FinalEstructura\FinalEstructura\bin\Debug\netcoreapp2.0\FinalEstructura.dll
+C:\Projects\C#\FinalEstructura\FinalEstructura\bin\Debug\netcoreapp2.0\FinalEstructura.pdb
+C:\Projects\C#\FinalEstructura\FinalEstructura\obj\Debug\netcoreapp2.0\FinalEstructura.dll
+C:\Projects\C#\FinalEstructura\FinalEstructura\obj\Debug\netcoreapp2.0\FinalEstructura.pdb
